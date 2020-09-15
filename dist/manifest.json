@@ -1,0 +1,12 @@
+{
+  "common.css": "style/common.css",
+  "common.js": "script/common.bundle.js",
+  "common.css.map": "style/common.css.map",
+  "common.js.map": "script/common.bundle.js.map",
+  "main.js": "script/main.bundle.js",
+  "main.js.map": "script/main.bundle.js.map",
+  "runtime.js": "script/runtime.bundle.js",
+  "runtime.js.map": "script/runtime.bundle.js.map",
+  "doc/React的渲染原理.md": "doc/React的渲染原理.md",
+  "index.html": "index.html"
+}
